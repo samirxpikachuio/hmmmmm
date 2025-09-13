@@ -14231,10 +14231,10 @@ function b0(t) {
       , i = Tc(r);
     return new X0(i,r)
 }
-const W_ = "/assets/last-BqyTzN4A.gif"
-  , H_ = "/assets/ballon1-HSPNaLaz.png"
-  , Y_ = "/assets/ballon2-CBBs6xot.png"
-  , Q_ = "/assets/ballon3-C1cya3LB.png"
+const W_ = "/hmmmmm/assets/last-BqyTzN4A.gif"
+  , H_ = "/hmmmmm/assets/ballon1-HSPNaLaz.png"
+  , Y_ = "/hmmmmm/assets/ballon2-CBBs6xot.png"
+  , Q_ = "/hmmmmm/assets/ballon3-C1cya3LB.png"
   , G_ = V_`
   body {
     background: linear-gradient(to bottom right, #fdf2f8, #ffffff, #faf5ff);
