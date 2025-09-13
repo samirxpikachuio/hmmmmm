@@ -12620,7 +12620,7 @@ Ge("x,y,z,top,right,bottom,left,width,height,fontSize,padding,margin,perspective
 Ze.registerPlugin(P0);
 var ve = Ze.registerPlugin(P0) || Ze;
 ve.core.Tween;
-const By = "/assets/first-CQjYmvJj.gif"
+const By = "/hmmmmm/assets/first-CQjYmvJj.gif"
   , Vy = ({onNext: t}) => {
     const e = de.useRef(null)
       , n = de.useRef(null)
